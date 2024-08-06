@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Rob Wittman",
+        "category": "House of Representatives",
+        "city": "2007",
+        "state": "Republican",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "1st District",
+        "coordinates": {
+            "longitude": -78.024902,
+            "latitude": 37.926868
+        },
+        "description": "Has focused on strengthening our military and supporting our nation’s veterans. Promoting a great economy. “pro-growth policies, fixing our crumbling infrastructure, increasing access to high-speed internet, and promoting workforce development through Career and Technical Education (CTE) and Science, Technology, Engineering, and Math (STEM) programs. (https://wittman.house.gov/about/)",
+        "imageName": "Whittman"
+    },
+    {
+        "name": "Bob Good",
+        "category": "House of Representatives",
+        "city": "2021",
+        "state": "Republican",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "5th District",
+        "coordinates": {
+            "longitude": -79.136286,
+            "latitude": 37.397787
+        },
+        "description": "Bob is committed to effectively representing the people of Virginia's Fifth Congressional District and advocating for the foundational principles that have and will continue to make America the greatest nation in history. Prior to his election to Congress, he served one term on the Campbell County Board of Supervisors from 2015 to 2019. Professionally, Bob worked as the Senior Associate Athletics Director for Development at Liberty University for 15 years, following a 17-year career with CitiFinancial. (https://good.house.gov/about)",
+        "imageName": "Good"
+    },
+    {
+        "name": "Morgan Griffith",
+        "category": "House of Representatives",
+        "city": "2011",
+        "state": "Republican",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "9th District",
+        "coordinates": {
+            "longitude": -80.4104,
+            "latitude": 37.2070
+        },
+        "description": "Morgan Griffith was first elected to represent the Ninth Congressional District of Virginia in the U.S. House of Representatives on November 2, 2010. Morgan is a member of the House Energy and Commerce Committee, which has jurisdiction over some of the most important issues facing Virginia’s Ninth District including public health and federal regulations. For the 118th Congress, Morgan was named Chairman of the Energy and Commerce Committee’s Subcommittee on Oversight and Investigations. He is also a member of the Subcommittee on Health and the Subcommittee on Energy.Further, he serves as a member of the Committee on House Administration, which oversees the daily operations of the House of Representatives and Capitol security and provides oversight of federal elections. Prior to his election to the U.S. House of Representatives, Morgan served as a member of the Virginia House of Delegates from 1994 to 2011, where he represented the Eighth District. In 2000, Morgan was elected House Majority Leader, the first Republican in Virginia history to hold that position. Morgan is a graduate of Salem’s Andrew Lewis High School and an honors graduate of Emory & Henry College. After completing studies at the Washington and Lee University School of Law, Morgan returned to Southwest Virginia where he practiced law for nearly three decades. (https://morgangriffith.house.gov/biography/)",
+        "imageName": "Griffith"
+    },
+    {
+        "name": "Bobby Scott",
+        "category": "House of Representatives",
+        "city": "1993",
+        "state": "Democrat",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "3rd District",
+        "coordinates": {
+            "longitude": -76.28182,
+            "latitude": 37.05080
+        },
+        "description": "During his tenure in the Virginia General Assembly, Congressman Scott successfully sponsored laws critical to Virginians in education, employment, health care, social services, economic development, crime prevention and consumer protection. His legislative successes in the General Assembly included laws that increased Virginia's minimum wage, created the Governor's Employment and Training Council and improved health care benefits for women, infants and children. (https://bobbyscott.house.gov/about/biography)",
+        "imageName": "Scott"
+    },
+    {
+        "name": "Gerry Connolly",
+        "category": "House of Representatives",
+        "city": "2009",
+        "state": "Democrat",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "11th District",
+        "coordinates": {
+            "longitude": -77.2405,
+            "latitude": 38.7439
+        },
+        "description": "Prior to his election to Congress, he served 14 years on the Fairfax County Board of Supervisors, including five years as Chairman. Throughout his career, protecting and growing Northern Virginia’s economy has been his top priority. In Congress, he has played a key role in securing federal dollars for transportation improvements in Northern Virginia, including completion of the Fairfax County Parkway, widening the Prince William County Parkway, providing ongoing support for Rail to Dulles, and securing the annual federal commitment of $150 million for the regional Metro system. (https://connolly.house.gov/biography/)",
+        "imageName": "Connolly"
+    },
+    {
+        "name": "Jen Kiggans",
+        "category": "House of Representatives",
+        "city": "2023",
+        "state": "Republican",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "2nd District",
+        "coordinates": {
+            "longitude": -75.9792,
+            "latitude": 36.8516
+        },
+        "description": "Jen is a proud Navy Wife to her husband Steve, a retired F-18 pilot, and mom to their four amazing children who motivate her every day to fight for a stronger future for Virginia and our nation as a whole. Prior to serving Virginians in public office, Jen served as a helicopter pilot in the U.S. Navy and worked in our nation’s healthcare system as a Geriatric Nurse Practitioner, serving America’s aging population. After years of growing frustration listening to politicians on the evening news and watching as division and negative rhetoric derailed legislative progress on issues important to her family and her community, Jen took her experience of working with a team to accomplish the mission at hand to Richmond. She served three sessions in the Virginia State Senate, where she successfully championed legislation to establish a Military Spouse Liaison and advocated for patients, families, and caregivers in long-term care facilities. (https://kiggans.house.gov/about)",
+        "imageName": "Kiggans"
+    },
+    {
+        "name": "Jennifer Wexton",
+        "category": "House of Representatives",
+        "city": "2019",
+        "state": "Democrat",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "10th District",
+        "coordinates": {
+            "longitude": -77.5645,
+            "latitude": 39.1155
+        },
+        "description": "Congresswoman Jennifer Wexton has been serving the people of Northern Virginia for over two decades as a prosecutor, attorney, advocate for abused children, and state Senator. During her five years in the General Assembly, she passed more than 40 bipartisan bills, all while serving in the minority. Now in Congress, Congresswoman Wexton has found success in working across the aisle to deliver results to better the lives of Virginia’s children and families. Wexton passed bipartisan legislative initiatives to expand funding for opioid addiction research, safeguard Americans’ retirement savings during the COVID-19 crisis, protect leave benefits for federal workers, modernize the Financial Crimes Enforcement Network, allow student veterans to use their benefits to study overseas, and ensure that leaders receive information about foreign disinformation campaigns on social media aimed at undermining U.S. elections. Wexton is the founder of the Congressional Task Force on Digital Citizenship, which aims to help better equip Americans with tools and resources to use technology and engage online responsibly in an increasingly digital world, and the bipartisan Congressional Agritourism Caucus, which supports the agritourism industry and  highlights its importance to local economies and communities. Wexton is also a member of the Congressional-Executive Commission on China, where she is working to combat human rights abuses. (https://wexton.house.gov/about/)",
+        "imageName": "Wexton"
+    },
+    {
+        "name": "Ben Cline",
+        "category": "House of Representatives",
+        "city": "2019",
+        "state": "Republican",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "6th District",
+        "coordinates": {
+            "longitude": -79.8773,
+            "latitude": 37.4993
+        },
+        "description": "Ben grew up in Rockbridge County, Virginia, and is a 1990 graduate of Lexington High School. He received his Bachelor of Arts degree from Bates College and his law degree from the University of Richmond. Ben and his wife Elizabeth live in Botetourt County with their two daughters. Ben also worked for Congressman Bob Goodlatte, beginning as a member of his legislative staff in 1994 and ultimately serving as the Congressman’s Chief of Staff. Prior to his election to the House of Representatives in 2018, Ben was an attorney in private practice. From 2007 until 2013, he served as an Assistant Commonwealth’s Attorney for Rockingham County and the City of Harrisonburg. (https://cline.house.gov/about/)",
+        "imageName": "Cline"
+    },
+    {
+        "name": "Jennifer McClellan",
+        "category": "House of Representatives",
+        "city": "2023",
+        "state": "Democrat",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "4th District",
+        "coordinates": {
+            "longitude": -77.4360,
+            "latitude": 37.5407
+        },
+        "description": "Jennifer McClellan entered the U.S. Congress in 2023 after winning a special election to replace the late Congressman A. Donald McEachin. A lifelong Virginia native, McClellan was born in Petersburg to parents who served the community: her father worked as a professor at Virginia State University and her mother worked as a counselor at VSU. McClellan attended Matoaca High School in Chesterfield County, where she was valedictorian. She earned her undergraduate degree from the University of Richmond, where she served as a Charter member of the Rho Rho Chapter of the Delta Sigma Theta Sorority, Inc. She then obtained her Juris Doctorate from the University of Virginia School of Law. McClellan has served the greater Richmond area in elected office for nearly twenty years. She was first elected to the Virginia House of Delegates in 2005 and served in that post until she was elected to the Virginia State Senate in 2017, where she succeeded A. Donald McEachin after his election to the U.S. House of Representatives. (https://mcclellan.house.gov/about)",
+        "imageName": "McClellan"
+    },
+    {
+        "name": "Abigail Spanberger",
+        "category": "House of Representatives",
+        "city": "2019",
+        "state": "Democrat",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "7th District",
+        "coordinates": {
+            "longitude": -77.5064,
+            "latitude": 37.6660
+        },
+        "description": "Abigail’s career has been defined by public service. She first swore an oath to the U.S. Constitution as a federal agent with the U.S. Postal Inspection Service. In this role, she investigated money laundering and narcotics cases — including at the southern border. Then, as a Central Intelligence Agency (CIA) case officer, she worked at home and abroad to collect intelligence, keep our country safe from terrorism, and inform policymakers in their national security decisions. Following her time at CIA, Abigail joined the private sector and helped American colleges and universities diversify their student bodies, expand opportunities for Americans entering the workforce, and increase graduation rates. (https://spanberger.house.gov/biography)",
+        "imageName": "Spanberger"
+    },
+    {
+        "name": "Don Beyer",
+        "category": "House of Representatives",
+        "city": "2015",
+        "state": "Democrat",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "8th District",
+        "coordinates": {
+            "longitude": -77.0469,
+            "latitude": 38.8048
+        },
+        "description": "He was the Lieutenant Governor of Virginia from 1990 to 1998, and was Ambassador to Switzerland and Liechtenstein under President Obama. Rep. Beyer’s signature work as lieutenant governor included advocacy for Virginians with disabilities and ensuring protections for Virginia’s most vulnerable populations as the Commonwealth reformed its welfare system in the mid-1990s. After leaving office, Rep. Beyer spent fourteen years as Chair of Jobs for Virginia Graduates, a highly successful high school dropout prevention program, and was active for a decade on the board of the D.C. Campaign to Prevent Teen Pregnancy. As Chair of the Virginia Economic Recovery Commission, he helped pass permanent pro-business reforms and was co-founder of the Northern Virginia Technology Council. President Obama nominated Rep. Beyer to serve as Ambassador to Switzerland and Liechtenstein in 2009. He used his position to advocate for stricter sanctions to compel Iran to begin nuclear disarmament discussions. As Ambassador, Rep. Beyer was integral to US Department of Justice efforts to halt the abuses of Swiss bank secrecy by wealthy Americans. (https://beyer.house.gov/about/)",
+        "imageName": "Beyer"
+    },
+    {
+        "name": "Mark Warner",
+        "category": "Senate",
+        "city": "2009",
+        "state": "Democrat",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Senate",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "During his time in the Senate, Sen. Warner has established himself as a bipartisan leader who works across the aisle to accomplish real solutions for Virginians. He has served as a key author and negotiator of several pieces of critical legislation aimed at rebuilding our nation’s infrastructure, improving cybersecurity, restoring domestic manufacturing, protecting national security, rebounding from the COVID-19 crisis, and investing in underserved and underbanked communities. (https://www.warner.senate.gov/public/index.cfm/biography)",
+        "imageName": "Warner"
+    },
+    {
+        "name": "Tim Kaine",
+        "category": "Senate",
+        "city": "2013",
+        "state": "Democrat",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Senate",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Tim has spent his time in the Senate focused on improving the lives of Virginians. He has made boosting job opportunities for everyone a top priority. As co-chair of the bipartisan Career and Technical Education (CTE) Caucus, Tim focuses on expanding access to job-training programs to ensure that students of all ages are prepared with the skills they need for the jobs of the modern economy. Tim has helped lead efforts in the Senate to reduce unemployment for military families and veterans. As a member of the Armed Services Committee, a Senator from one of the states most closely connected to the military, and the father of a former Marine, Tim is focused on crafting smart defense strategy and reducing the risk of unnecessary war. He works to ensure that the military has the resources it needs to keep the country safe and that servicemembers and veterans receive the benefits and care they have earned. He has also been the leading voice against Presidents starting wars without a vote by Congress. Tim believes that health care is a right, not something reserved just for those who can afford it. He has introduced legislation to expand access to quality, affordable health care and lower health care costs for Americans. He has led the fight to protect young people from harmful tobacco products and successfully passed legislation raising the federal tobacco purchase age from 18 to 21. He introduced and successfully pushed for passage of the Dr. Lorna Breen Health Care Provider Protection Act, legislation to prevent burnout, suicide, and mental and behavioral health issues among health care workers, which was signed into law in March 2022. He's also introduced legislation to give Americans more options for affordable health insurance, to lower the cost of prescription drugs, and to combat the opioid epidemic. (https://www.kaine.senate.gov/about)",
+        "imageName": "Kaine"
+    }
+]
